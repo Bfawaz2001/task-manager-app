@@ -88,4 +88,4 @@ To run the test suite for the API:
 Feel free to fork the repository and submit pull requests. Any contributions are welcome!
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see LICENSE.md for more details.
